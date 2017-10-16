@@ -1,0 +1,1 @@
+# npm-xvi-odooapi-core
