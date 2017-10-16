@@ -1,0 +1,25 @@
+{
+    "repository": "sbglive/npm-xvi-odooapi-core",
+    "description": "OdooApiCore",
+    "name": "xvi-odooapi-core",
+    "version": "0.0.3",
+    "main": "OdooCoreApi.js",
+    "dependencies": {
+        "odoo-xmlrpc": "^1.0.6",
+        "xvi-helper": "latest",
+        "xvi-logger": "latest"
+    },
+    "author": {
+        "name": "Benoit Lavorata",
+        "email": "blavorata@gmail.com"
+    },
+    "bundleDependencies": false,
+    "contributors": [],
+    "engines": {
+        "node": ">= 8.4.0"
+    },
+    "deprecated": false,
+    "subdomain": "xvi",
+    "devDependencies": {},
+    "license": "Apache v2.0"
+}
